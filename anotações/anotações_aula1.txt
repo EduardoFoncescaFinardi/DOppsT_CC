@@ -1,0 +1,26 @@
+-------Linux comandos----------
+
+- mkdir: criar um diretório.
+- ls: listar itens de uma pasta.
+- cd: selecionar/acessar uma pasta.
+- sudo: solicitação de permissão para a máquina caso ela esteja com algum bloqueio ao executar algum código.
+- |(pipe) grep: filtrar dentro do diretório.
+- touch: cria um arquivo e sai dele, apenas.
+- rm: apagar/remover arquivos.
+- nano: editor de arquivos.
+- cat: printa na tela um arquivo específico.
+------------mesma função--------
+- yum (fedora): instala algo que você solicita.
+- apt (ubunto):instala algo que você solicita.
+--------------------------------
+- (menos y)-y: comando faz algo rodar sem a necessidade de instalar algo.
+- vi: editor de arquivo.
+- la: lista permissão que vc tem em relação aos arquivos.
+- chmod: permissão para grupo de arquivos e pastas(pode dar problema).
+- 777 é permissão de root, permite ao usuário fazer o que quiser.
+- passwd: forçar alterar a senha de um usuário
+- history | grep touch: listar todos os arquivos executados com touch.
+- ls -ltr: lista os arquivos em ordem de criação.
+- -rf: força remoção do arquivo com rm (rm - rf...).
+
+
